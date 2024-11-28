@@ -1,4 +1,4 @@
-# CNN_ColourBlindPerception
+
 # Color Vision Classifier and Simulator
 
 This project provides a tool to classify the type of color blindness a user has and simulate how images appear to them based on their condition. It aims to raise awareness and help colorblind individuals better understand their vision.
